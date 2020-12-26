@@ -1,6 +1,2 @@
-this 
-!wq
-wq!
-q
-wq!
+This is  a sample text file
 
