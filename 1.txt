@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 this 
 !wq
@@ -6,7 +6,4 @@ wq!
 q
 wq!
 
-=======
-this is my first commit on 27/12/2020
->>>>>>> parent of fa82c5b (this is my second commit on 27/12/2020)
 
