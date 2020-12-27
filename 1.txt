@@ -1,2 +1,6 @@
-This is  a sample text file
+this 
+!wq
+wq!
+q
+wq!
 
